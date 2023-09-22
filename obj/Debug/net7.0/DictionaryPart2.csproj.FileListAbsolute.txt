@@ -1,0 +1,14 @@
+C:\Users\smurf\source\repos\programmeringGrund\DictionaryPart2\bin\Debug\net7.0\DictionaryPart2.exe
+C:\Users\smurf\source\repos\programmeringGrund\DictionaryPart2\bin\Debug\net7.0\DictionaryPart2.deps.json
+C:\Users\smurf\source\repos\programmeringGrund\DictionaryPart2\bin\Debug\net7.0\DictionaryPart2.runtimeconfig.json
+C:\Users\smurf\source\repos\programmeringGrund\DictionaryPart2\bin\Debug\net7.0\DictionaryPart2.dll
+C:\Users\smurf\source\repos\programmeringGrund\DictionaryPart2\bin\Debug\net7.0\DictionaryPart2.pdb
+C:\Users\smurf\source\repos\programmeringGrund\DictionaryPart2\obj\Debug\net7.0\DictionaryPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smurf\source\repos\programmeringGrund\DictionaryPart2\obj\Debug\net7.0\DictionaryPart2.AssemblyInfoInputs.cache
+C:\Users\smurf\source\repos\programmeringGrund\DictionaryPart2\obj\Debug\net7.0\DictionaryPart2.AssemblyInfo.cs
+C:\Users\smurf\source\repos\programmeringGrund\DictionaryPart2\obj\Debug\net7.0\DictionaryPart2.csproj.CoreCompileInputs.cache
+C:\Users\smurf\source\repos\programmeringGrund\DictionaryPart2\obj\Debug\net7.0\DictionaryPart2.dll
+C:\Users\smurf\source\repos\programmeringGrund\DictionaryPart2\obj\Debug\net7.0\refint\DictionaryPart2.dll
+C:\Users\smurf\source\repos\programmeringGrund\DictionaryPart2\obj\Debug\net7.0\DictionaryPart2.pdb
+C:\Users\smurf\source\repos\programmeringGrund\DictionaryPart2\obj\Debug\net7.0\DictionaryPart2.genruntimeconfig.cache
+C:\Users\smurf\source\repos\programmeringGrund\DictionaryPart2\obj\Debug\net7.0\ref\DictionaryPart2.dll
